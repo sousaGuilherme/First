@@ -24,3 +24,8 @@ git restore file
 // para voltar em alguns saves do seu projeto
 git checkout "codigo da log"
 
+// puxa modificações do repositório remoto para o repositório local
+git pull
+
+// envia as modificações locais para o repositório remoto
+git push
