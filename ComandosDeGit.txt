@@ -32,3 +32,6 @@ git push
 
 //trazendo um repositório remoto para minha maquina
 git clone LinkDoGitHub
+
+// comando para o github se transformar em um editor
+colocar o ponto final na pagina do projeto no github
