@@ -29,3 +29,6 @@ git pull
 
 // envia as modificações locais para o repositório remoto
 git push
+
+//trazendo um repositório remoto para minha maquina
+git clone LinkDoGitHub
