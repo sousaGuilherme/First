@@ -15,3 +15,8 @@ git comit -m "message here"
 // histórico de commits do projeto
 git log
 
+// para remover do stage area
+git rm --cached file
+
+// restaurar do ultimo save
+git restore file
