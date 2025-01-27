@@ -20,3 +20,7 @@ git rm --cached file
 
 // restaurar do ultimo save
 git restore file
+
+// para voltar em alguns saves do seu projeto
+git checkout "codigo da log"
+
